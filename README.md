@@ -45,7 +45,7 @@ This will search for the appended `.love` file within the given executable and, 
 
 ## License
 
-MIT (or whatever license you'd like to use)
+MIT 
 
 ## Contributing
 
