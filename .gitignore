@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+# Output files
+output
+output.zip
+love-extractor
