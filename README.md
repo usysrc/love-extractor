@@ -6,6 +6,18 @@ A simple tool written in Go that extracts an appended `.love` file from a LÖVE 
 
 - Go (tested with Go 1.20)
 
+## Installation
+
+Needs golang 1.18+ installed. 
+
+To use the love-extractor, you need to have Go installed on your system. If you haven't installed Go, you can download it from the official Go website: https://golang.org/dl/
+
+Once you have Go installed, you can install love-extractor using the following command:
+
+```bash
+go install github.com/usysrc/love-extractor@latest
+```
+
 ## Compilation
 
 1. Clone this repository or download the `love-extractor.go` source file.
