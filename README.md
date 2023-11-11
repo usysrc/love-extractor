@@ -17,16 +17,6 @@ Once you have Go installed, you can install love-extractor using the following c
 ```bash
 go install github.com/usysrc/love-extractor@latest
 ```
-
-## Compilation
-
-1. Clone this repository or download the `love-extractor.go` source file.
-2. Navigate to the directory containing `love-extractor.go`.
-3. Compile the program:
-```bash
-go build
-```
-
 ## Usage
 
 After installing the program, you can extract the `.love` file from a LÖVE game executable using:
