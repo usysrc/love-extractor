@@ -4,7 +4,7 @@ A simple tool written in Go that extracts an appended `.love` file from a LÖVE 
 
 ## Prerequisites
 
-- Go (tested with Go 1.20)
+- Go (tested with Go 1.21.3)
 
 ## Installation
 
