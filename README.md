@@ -29,10 +29,10 @@ go build
 
 ## Usage
 
-After compiling the program, you can extract the `.love` file from a LÖVE game executable using:
+After installing the program, you can extract the `.love` file from a LÖVE game executable using:
 
 ```bash
-./love-extractor path/to/your/exe/file.exe output.love
+love-extractor path/to/your/exe/file.exe output.love
 ```
 
 This will search for the appended `.love` file within the given executable and, if found, will save it as `output.love`.
